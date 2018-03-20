@@ -14,6 +14,10 @@
 > 
 > * GitHub처럼 각각 음악 파일을 합쳐, 더 좋은 음악을 만드는 플랫폼
 
+> 3. [NBand](https://github.com/dmsals216/NBand)
+> 
+> * Naver Band를 카피해보는 프로젝트
+
 ## Study
 
-> * [공부한 내용들](https://github.com/dmsals216/MyStudy)
+> * [Android Study](https://github.com/dmsals216/MyStudy)
